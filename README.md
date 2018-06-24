@@ -9,3 +9,5 @@ The system is a practical system developed with JavaEE and developed for people 
 It is convenient for users to operation in this system. They can lease a free shared parking space by filtering in the designated area after login. You can place an order directly after submitting your own license plate number. You can use your parking space if you order successfully. When the use is over, you need to pay for the order and complete an order. Convenient operation can bring users a excellent experience, while accurate data can also ensure that the user's rights in use are protected. Compared with the cumbersome and real-time operation of searching for parking spaces in reality, the system can significantly reduce the operation time and the simple operation steps when used, allowing users to enjoy the convenience brought by the smart community-shared parking spaces.
 
 【Keywords】 Smart Community, Shared Parking, Online Leasing
+
+新增需求分析
