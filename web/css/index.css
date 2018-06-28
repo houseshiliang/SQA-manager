@@ -1,0 +1,20 @@
+body {
+    background-image: url("../img/homescreen.jpeg");
+    background-size: 100%;
+    -moz-background-size: 100%;
+    text-align: center;
+}
+
+body div {
+    width: 100%;
+    text-align: right;
+}
+
+body a {
+    width: 64px;
+    height: 26px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    background: inherit
+}

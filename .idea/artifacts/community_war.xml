@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="community:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/community_war</output-path>
+    <root id="archive" name="community_war.war">
+      <element id="artifact" artifact-name="community:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="C:/xampp/tomcat/lib/annotations-api.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-ant.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/websocket-api.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-util.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-api.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/jasper.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/jasper-el.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/el-api.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-ha.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

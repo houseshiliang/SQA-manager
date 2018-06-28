@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="community:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/community_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="community/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="community" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="C:/xampp/tomcat/lib/fastjson-1.1.37.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/jstl.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/mysql-connector-java-5.1.46.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/standard.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/ecj-4.5.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/websocket-api.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-util.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/tomcat-api.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/jasper.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/jasper-el.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/el-api.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-ha.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/catalina-ant.jar" />
+          <element id="file-copy" path="C:/xampp/tomcat/lib/annotations-api.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
